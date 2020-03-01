@@ -1,0 +1,5336 @@
+{
+    "name": "Test 1",
+    "maxTotalScore": 87,
+    "questions": [
+        {
+            "title": "Score Question 1",
+            "maxScore": 1,
+            "avgScore": 0.6283185840707964,
+            "pValue": 0.6283185840707964,
+            "rValue": 0.331601545753646
+        },
+        {
+            "title": "Score Question 2",
+            "maxScore": 1,
+            "avgScore": 0.6327433628318584,
+            "pValue": 0.6327433628318584,
+            "rValue": 0.16931940379316093
+        },
+        {
+            "title": "Score Question 3",
+            "maxScore": 1,
+            "avgScore": 0.8008849557522124,
+            "pValue": 0.8008849557522124,
+            "rValue": 0.19623441427439822
+        },
+        {
+            "title": "Score Question 4",
+            "maxScore": 1,
+            "avgScore": 0.8517699115044248,
+            "pValue": 0.8517699115044248,
+            "rValue": 0.08594405879484329
+        },
+        {
+            "title": "Score Question 5",
+            "maxScore": 1,
+            "avgScore": 0.8008849557522124,
+            "pValue": 0.8008849557522124,
+            "rValue": 0.23313903744518125
+        },
+        {
+            "title": "Score Question 6",
+            "maxScore": 1,
+            "avgScore": 0.8783185840707964,
+            "pValue": 0.8783185840707964,
+            "rValue": 0.28450242084489735
+        },
+        {
+            "title": "Score Question 7",
+            "maxScore": 1,
+            "avgScore": 0.8805309734513275,
+            "pValue": 0.8805309734513275,
+            "rValue": 0.1733637939526739
+        },
+        {
+            "title": "Score Question 8",
+            "maxScore": 1,
+            "avgScore": 0.17035398230088494,
+            "pValue": 0.17035398230088494,
+            "rValue": 7.588657232759294e-5
+        },
+        {
+            "title": "Score Question 9",
+            "maxScore": 1,
+            "avgScore": 0.17035398230088494,
+            "pValue": 0.17035398230088494,
+            "rValue": 0.02825148678367685
+        },
+        {
+            "title": "Score Question 10",
+            "maxScore": 1,
+            "avgScore": 0.8606194690265486,
+            "pValue": 0.8606194690265486,
+            "rValue": 0.09355720951890209
+        },
+        {
+            "title": "Score Question 11",
+            "maxScore": 1,
+            "avgScore": 0.7101769911504425,
+            "pValue": 0.7101769911504425,
+            "rValue": 0.2010255667085272
+        },
+        {
+            "title": "Score Question 12",
+            "maxScore": 1,
+            "avgScore": 0.8561946902654868,
+            "pValue": 0.8561946902654868,
+            "rValue": 0.34595000159163525
+        },
+        {
+            "title": "Score Question 13",
+            "maxScore": 1,
+            "avgScore": 0.7367256637168141,
+            "pValue": 0.7367256637168141,
+            "rValue": 0.25115517966862466
+        },
+        {
+            "title": "Score Question 14",
+            "maxScore": 1,
+            "avgScore": 0.8628318584070797,
+            "pValue": 0.8628318584070797,
+            "rValue": 0.16130554164429511
+        },
+        {
+            "title": "Score Question 15",
+            "maxScore": 1,
+            "avgScore": 0.8230088495575221,
+            "pValue": 0.8230088495575221,
+            "rValue": 0.15991631047830396
+        },
+        {
+            "title": "Score Question 16",
+            "maxScore": 1,
+            "avgScore": 0.4446902654867257,
+            "pValue": 0.4446902654867257,
+            "rValue": 0.13676402339078375
+        },
+        {
+            "title": "Score Question 17",
+            "maxScore": 1,
+            "avgScore": 0.5907079646017699,
+            "pValue": 0.5907079646017699,
+            "rValue": 0.15138066454463942
+        },
+        {
+            "title": "Score Question 18",
+            "maxScore": 1,
+            "avgScore": 0.2942477876106195,
+            "pValue": 0.2942477876106195,
+            "rValue": 0.1174771332577287
+        },
+        {
+            "title": "Score Question 19",
+            "maxScore": 1,
+            "avgScore": 0.33849557522123896,
+            "pValue": 0.33849557522123896,
+            "rValue": -0.0039059247776274007
+        },
+        {
+            "title": "Score Question 20",
+            "maxScore": 1,
+            "avgScore": 0.6017699115044248,
+            "pValue": 0.6017699115044248,
+            "rValue": 0.24912630010605522
+        },
+        {
+            "title": "Score Question 21",
+            "maxScore": 1,
+            "avgScore": 0.8738938053097345,
+            "pValue": 0.8738938053097345,
+            "rValue": 0.11262297180733889
+        },
+        {
+            "title": "Score Question 22",
+            "maxScore": 1,
+            "avgScore": 0.8761061946902655,
+            "pValue": 0.8761061946902655,
+            "rValue": 0.13114556381616652
+        },
+        {
+            "title": "Score Question 23",
+            "maxScore": 1,
+            "avgScore": 0.9469026548672567,
+            "pValue": 0.9469026548672567,
+            "rValue": 0.26948775091520993
+        },
+        {
+            "title": "Score Question 24",
+            "maxScore": 1,
+            "avgScore": 1,
+            "pValue": 1,
+            "rValue": 0
+        },
+        {
+            "title": "Score Question 25",
+            "maxScore": 1,
+            "avgScore": 0.33849557522123896,
+            "pValue": 0.33849557522123896,
+            "rValue": 0.20193674164553935
+        },
+        {
+            "title": "Score Question 26",
+            "maxScore": 1,
+            "avgScore": 0.6814159292035398,
+            "pValue": 0.6814159292035398,
+            "rValue": 0.1870598335775284
+        },
+        {
+            "title": "Score Question 27",
+            "maxScore": 1,
+            "avgScore": 0.22566371681415928,
+            "pValue": 0.22566371681415928,
+            "rValue": 0.11897628293650783
+        },
+        {
+            "title": "Score Question 28",
+            "maxScore": 1,
+            "avgScore": 0.4579646017699115,
+            "pValue": 0.4579646017699115,
+            "rValue": 0.13162222199048904
+        },
+        {
+            "title": "Score Question 29",
+            "maxScore": 1,
+            "avgScore": 0.7389380530973452,
+            "pValue": 0.7389380530973452,
+            "rValue": 0.13873895577745837
+        },
+        {
+            "title": "Score Question 30",
+            "maxScore": 1,
+            "avgScore": 0.45132743362831856,
+            "pValue": 0.45132743362831856,
+            "rValue": 0.05504947381625697
+        },
+        {
+            "title": "Score Question 31",
+            "maxScore": 3,
+            "avgScore": 1.8871681415929205,
+            "pValue": 0.6290560471976402,
+            "rValue": 0.4578229005511048
+        },
+        {
+            "title": "Score Question 32",
+            "maxScore": 2,
+            "avgScore": 1.8827433628318584,
+            "pValue": 0.9413716814159292,
+            "rValue": 0.2297604742572374
+        },
+        {
+            "title": "Score Question 33",
+            "maxScore": 2,
+            "avgScore": 1,
+            "pValue": 0.5,
+            "rValue": 0.34287190888776575
+        },
+        {
+            "title": "Score Question 34",
+            "maxScore": 3,
+            "avgScore": 1.2964601769911503,
+            "pValue": 0.43215339233038347,
+            "rValue": 0.3427043649440462
+        },
+        {
+            "title": "Score Question 35",
+            "maxScore": 5,
+            "avgScore": 4.449115044247788,
+            "pValue": 0.8898230088495576,
+            "rValue": 0.4257120607087068
+        },
+        {
+            "title": "Score Question 36",
+            "maxScore": 5,
+            "avgScore": 2.6969026548672566,
+            "pValue": 0.5393805309734513,
+            "rValue": 0.32999421476421703
+        },
+        {
+            "title": "Score Question 37",
+            "maxScore": 2,
+            "avgScore": 1.261061946902655,
+            "pValue": 0.6305309734513275,
+            "rValue": 0.30745593896252255
+        },
+        {
+            "title": "Score Question 38",
+            "maxScore": 2,
+            "avgScore": 1.2101769911504425,
+            "pValue": 0.6050884955752213,
+            "rValue": 0.15841486201491617
+        },
+        {
+            "title": "Score Question 39",
+            "maxScore": 3,
+            "avgScore": 0.915929203539823,
+            "pValue": 0.3053097345132743,
+            "rValue": 0.33988739383643257
+        },
+        {
+            "title": "Score Question 40",
+            "maxScore": 3,
+            "avgScore": 1.747787610619469,
+            "pValue": 0.5825958702064896,
+            "rValue": 0.41313589908044646
+        },
+        {
+            "title": "Score Question 41",
+            "maxScore": 5,
+            "avgScore": 1.75,
+            "pValue": 0.35,
+            "rValue": 0.527350173756314
+        },
+        {
+            "title": "Score Question 42",
+            "maxScore": 5,
+            "avgScore": 3.559734513274336,
+            "pValue": 0.7119469026548673,
+            "rValue": 0.4474938787012342
+        },
+        {
+            "title": "Score Question 43",
+            "maxScore": 2,
+            "avgScore": 1.008849557522124,
+            "pValue": 0.504424778761062,
+            "rValue": 0.461939382474751
+        },
+        {
+            "title": "Score Question 44",
+            "maxScore": 3,
+            "avgScore": 0.838495575221239,
+            "pValue": 0.27949852507374634,
+            "rValue": 0.4598238350357497
+        },
+        {
+            "title": "Score Question 45",
+            "maxScore": 3,
+            "avgScore": 2.1349557522123894,
+            "pValue": 0.7116519174041298,
+            "rValue": 0.39946043424088834
+        },
+        {
+            "title": "Score Question 46",
+            "maxScore": 2,
+            "avgScore": 1.4513274336283186,
+            "pValue": 0.7256637168141593,
+            "rValue": 0.29385870867366615
+        },
+        {
+            "title": "Score Question 47",
+            "maxScore": 2,
+            "avgScore": 1.413716814159292,
+            "pValue": 0.706858407079646,
+            "rValue": 0.35880355565535843
+        },
+        {
+            "title": "Score Question 48",
+            "maxScore": 5,
+            "avgScore": 1.6969026548672566,
+            "pValue": 0.33938053097345133,
+            "rValue": 0.5345545842022787
+        }
+    ],
+    "gradeInterPoints": [
+        [
+            0,
+            1
+        ],
+        [
+            20,
+            1
+        ],
+        [
+            70,
+            5.5
+        ],
+        [
+            100,
+            10
+        ]
+    ],
+    "numberOfQuestions": 48,
+    "numberOfStudents": 452,
+    "students": [
+        {
+            "name": "Student 0001",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.6,
+                "score": 40,
+                "percentage": 45,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0002",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0003",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0004",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0005",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0006",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.5,
+                "score": 39,
+                "percentage": 44,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0007",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0008",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0009",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.6,
+                "score": 40,
+                "percentage": 45,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0010",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0011",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0012",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0013",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.5,
+                "score": 39,
+                "percentage": 44,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0014",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0015",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.1,
+                "score": 34,
+                "percentage": 39,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0016",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.2,
+                "score": 35,
+                "percentage": 40,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0017",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.4,
+                "score": 26,
+                "percentage": 29,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0018",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0019",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0020",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.6,
+                "score": 28,
+                "percentage": 32,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0021",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0022",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0023",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0024",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0025",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.8,
+                "score": 41,
+                "percentage": 47,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0026",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0027",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0028",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0029",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.8,
+                "score": 69,
+                "percentage": 79,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0030",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.6,
+                "score": 68,
+                "percentage": 78,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0031",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0032",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0033",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0034",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.2,
+                "score": 66,
+                "percentage": 75,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0035",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0036",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0037",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0038",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0039",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 7.1,
+                "score": 71,
+                "percentage": 81,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0040",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0041",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0042",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0043",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.3,
+                "score": 37,
+                "percentage": 42,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0044",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.3,
+                "score": 46,
+                "percentage": 52,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0045",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0046",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 7.8,
+                "score": 75,
+                "percentage": 86,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0047",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0048",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 7.4,
+                "score": 73,
+                "percentage": 83,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0049",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0050",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0051",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0052",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0053",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0054",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.6,
+                "score": 62,
+                "percentage": 71,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0055",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0056",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.8,
+                "score": 31,
+                "percentage": 35,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0057",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0058",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0059",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0060",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0061",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0062",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0063",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0064",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0065",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0066",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.6,
+                "score": 40,
+                "percentage": 45,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0067",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.5,
+                "score": 67,
+                "percentage": 77,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0068",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.9,
+                "score": 64,
+                "percentage": 73,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0069",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.6,
+                "score": 40,
+                "percentage": 45,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0070",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0071",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0072",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0073",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0074",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0075",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0076",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0077",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0078",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0079",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.6,
+                "score": 68,
+                "percentage": 78,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0080",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0081",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.1,
+                "score": 65,
+                "percentage": 74,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0082",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0083",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0084",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0085",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.9,
+                "score": 64,
+                "percentage": 73,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0086",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.1,
+                "score": 34,
+                "percentage": 39,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0087",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.5,
+                "score": 27,
+                "percentage": 31,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0088",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0089",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0090",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0091",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0092",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0093",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0094",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0095",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0096",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.6,
+                "score": 62,
+                "percentage": 71,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0097",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.9,
+                "score": 70,
+                "percentage": 80,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0098",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0099",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0100",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0101",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.6,
+                "score": 68,
+                "percentage": 78,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0102",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0103",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.9,
+                "score": 64,
+                "percentage": 73,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0104",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 8.1,
+                "score": 77,
+                "percentage": 88,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0105",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0106",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0107",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0108",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0109",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0110",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0111",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0112",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.5,
+                "score": 39,
+                "percentage": 44,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0113",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0114",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0115",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.2,
+                "score": 23,
+                "percentage": 26,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0116",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0117",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.9,
+                "score": 64,
+                "percentage": 73,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0118",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0119",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0120",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0121",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0122",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.6,
+                "score": 68,
+                "percentage": 78,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0123",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0124",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0125",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.3,
+                "score": 37,
+                "percentage": 42,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0126",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0127",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0128",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0129",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0130",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1,
+                "score": 18,
+                "percentage": 20,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0131",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0132",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0133",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.7,
+                "score": 30,
+                "percentage": 34,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0134",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 8.1,
+                "score": 77,
+                "percentage": 88,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0135",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0136",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.3,
+                "score": 37,
+                "percentage": 42,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0137",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0138",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0139",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0140",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0141",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0142",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0143",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0144",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.6,
+                "score": 28,
+                "percentage": 32,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0145",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0146",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.8,
+                "score": 41,
+                "percentage": 47,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0147",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.3,
+                "score": 46,
+                "percentage": 52,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0148",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0149",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0150",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0151",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0152",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0153",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0154",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0155",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0156",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0157",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0158",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.6,
+                "score": 28,
+                "percentage": 32,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0159",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0160",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0161",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0162",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0163",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.1,
+                "score": 34,
+                "percentage": 39,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0164",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0165",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0166",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0167",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0168",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0169",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0170",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0171",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0172",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0173",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0174",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.3,
+                "score": 46,
+                "percentage": 52,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0175",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0176",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0177",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0178",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0179",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.9,
+                "score": 64,
+                "percentage": 73,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0180",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0181",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0182",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.8,
+                "score": 41,
+                "percentage": 47,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0183",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0184",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0185",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0186",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0187",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0188",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.7,
+                "score": 30,
+                "percentage": 34,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0189",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0190",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0191",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.5,
+                "score": 39,
+                "percentage": 44,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0192",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0193",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0194",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0195",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0196",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0197",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.9,
+                "score": 33,
+                "percentage": 37,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0198",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0199",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.8,
+                "score": 41,
+                "percentage": 47,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0200",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0201",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0202",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0203",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0204",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0205",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0206",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0207",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0208",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.6,
+                "score": 29,
+                "percentage": 33,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0209",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.5,
+                "score": 39,
+                "percentage": 44,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0210",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0211",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0212",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0213",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0214",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0215",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0216",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0217",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0218",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0219",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0220",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0221",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0222",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0223",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0224",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0225",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0226",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0227",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0228",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 7.1,
+                "score": 71,
+                "percentage": 81,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0229",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0230",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0231",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0232",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0233",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.2,
+                "score": 36,
+                "percentage": 41,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0234",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0235",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0236",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0237",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0238",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0239",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0240",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0241",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0242",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0243",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0244",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0245",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0246",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0247",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.3,
+                "score": 37,
+                "percentage": 42,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0248",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.2,
+                "score": 35,
+                "percentage": 40,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0249",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.6,
+                "score": 40,
+                "percentage": 45,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0250",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.6,
+                "score": 62,
+                "percentage": 71,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0251",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0252",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.1,
+                "score": 65,
+                "percentage": 74,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0253",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0254",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0255",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0256",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.8,
+                "score": 69,
+                "percentage": 79,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0257",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0258",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0259",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 8.4,
+                "score": 79,
+                "percentage": 90,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0260",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 7.4,
+                "score": 73,
+                "percentage": 83,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0261",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.9,
+                "score": 64,
+                "percentage": 73,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0262",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0263",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.6,
+                "score": 40,
+                "percentage": 45,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0264",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0265",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0266",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0267",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0268",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0269",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0270",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0271",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0272",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0273",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0274",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0275",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0276",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0277",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 7.8,
+                "score": 75,
+                "percentage": 86,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0278",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0279",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0280",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0281",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0282",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0283",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0284",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.5,
+                "score": 67,
+                "percentage": 77,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0285",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0286",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.8,
+                "score": 31,
+                "percentage": 35,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0287",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0288",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0289",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0290",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0291",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0292",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0293",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0294",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0295",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0296",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.3,
+                "score": 46,
+                "percentage": 52,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0297",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0298",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0299",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0300",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0301",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0302",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.6,
+                "score": 40,
+                "percentage": 45,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0303",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0304",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0305",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.5,
+                "score": 67,
+                "percentage": 77,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0306",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.3,
+                "score": 46,
+                "percentage": 52,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0307",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0308",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0309",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0310",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0311",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0312",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.3,
+                "score": 46,
+                "percentage": 52,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0313",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0314",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0315",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0316",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0317",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0318",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.6,
+                "score": 28,
+                "percentage": 32,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0319",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0320",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0321",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0322",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0323",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0324",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.8,
+                "score": 69,
+                "percentage": 79,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0325",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0326",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0327",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0328",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0329",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0330",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0331",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.8,
+                "score": 41,
+                "percentage": 47,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0332",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0333",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0334",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.2,
+                "score": 66,
+                "percentage": 75,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0335",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0336",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0337",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.4,
+                "score": 38,
+                "percentage": 43,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0338",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0339",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0340",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0341",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0342",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0343",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0344",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.2,
+                "score": 36,
+                "percentage": 41,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0345",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0346",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0347",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0348",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0349",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.9,
+                "score": 64,
+                "percentage": 73,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0350",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0351",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.6,
+                "score": 29,
+                "percentage": 33,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0352",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.6,
+                "score": 62,
+                "percentage": 71,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0353",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.3,
+                "score": 46,
+                "percentage": 52,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0354",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0355",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0356",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0357",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0358",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0359",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0360",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0361",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.5,
+                "score": 67,
+                "percentage": 77,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0362",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0363",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0364",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.3,
+                "score": 46,
+                "percentage": 52,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0365",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.8,
+                "score": 31,
+                "percentage": 35,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0366",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0367",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0368",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0369",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0370",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0371",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0372",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0373",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.3,
+                "score": 46,
+                "percentage": 52,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0374",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0375",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0376",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0377",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0378",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.9,
+                "score": 64,
+                "percentage": 73,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0379",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.6,
+                "score": 28,
+                "percentage": 32,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0380",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.2,
+                "score": 36,
+                "percentage": 41,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0381",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0382",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 7.1,
+                "score": 71,
+                "percentage": 81,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0383",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0384",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0385",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.6,
+                "score": 62,
+                "percentage": 71,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0386",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0387",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0388",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0389",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0390",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0391",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0392",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0393",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0394",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.6,
+                "score": 40,
+                "percentage": 45,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0395",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.4,
+                "score": 38,
+                "percentage": 43,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0396",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0397",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0398",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0399",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.9,
+                "score": 50,
+                "percentage": 57,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0400",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 7.4,
+                "score": 73,
+                "percentage": 83,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0401",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.2,
+                "score": 53,
+                "percentage": 60,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0402",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.8,
+                "score": 63,
+                "percentage": 72,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0403",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.3,
+                "score": 46,
+                "percentage": 52,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0404",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0405",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.6,
+                "score": 68,
+                "percentage": 78,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0406",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.6,
+                "score": 28,
+                "percentage": 32,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0407",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0408",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.1,
+                "score": 65,
+                "percentage": 74,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0409",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.5,
+                "score": 47,
+                "percentage": 54,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0410",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0411",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.6,
+                "score": 62,
+                "percentage": 71,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0412",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0413",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0414",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0415",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0416",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0417",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.2,
+                "score": 60,
+                "percentage": 68,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0418",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.3,
+                "score": 37,
+                "percentage": 42,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0419",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0420",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0421",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.2,
+                "score": 45,
+                "percentage": 51,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0422",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.9,
+                "score": 64,
+                "percentage": 73,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0423",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0424",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3,
+                "score": 43,
+                "percentage": 49,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0425",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0426",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.6,
+                "score": 55,
+                "percentage": 63,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0427",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0428",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.6,
+                "score": 40,
+                "percentage": 45,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0429",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.1,
+                "score": 44,
+                "percentage": 50,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0430",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.6,
+                "score": 48,
+                "percentage": 55,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0431",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4,
+                "score": 51,
+                "percentage": 58,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0432",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5,
+                "score": 58,
+                "percentage": 66,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0433",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0434",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0435",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0436",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0437",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.3,
+                "score": 46,
+                "percentage": 52,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0438",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 2.9,
+                "score": 42,
+                "percentage": 48,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0439",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.1,
+                "score": 59,
+                "percentage": 67,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0440",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0441",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 5.5,
+                "score": 61,
+                "percentage": 70,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0442",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0443",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.8,
+                "score": 57,
+                "percentage": 65,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0444",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0445",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.7,
+                "score": 56,
+                "percentage": 64,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0446",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.3,
+                "score": 46,
+                "percentage": 52,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0447",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 3.7,
+                "score": 49,
+                "percentage": 56,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0448",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.1,
+                "score": 52,
+                "percentage": 59,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0449",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 1.9,
+                "score": 33,
+                "percentage": 37,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0450",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.5,
+                "score": 67,
+                "percentage": 77,
+                "passed": true
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0451",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 4.5,
+                "score": 54,
+                "percentage": 62,
+                "passed": false
+            },
+            "messages": []
+        },
+        {
+            "name": "Student 0452",
+            "numberOfAnswers": 48,
+            "gradeResult": {
+                "grade": 6.8,
+                "score": 69,
+                "percentage": 79,
+                "passed": true
+            },
+            "messages": []
+        }
+    ]
+}
